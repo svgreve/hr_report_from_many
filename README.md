@@ -1,10 +1,6 @@
-# GenReport
+# Hr_report_from_many
 
-Dez pessoas fizeram freelas para uma empresa X durante cinco anos e o histórico com todos os dados de cada uma dessas pessoas (nome, horas trabalhadas, dia, mês e ano) foram passadas para um arquivo CSV na seguinte ordem: nome, horas de trabalho no dia, dia referente às horas de trabalho, mês e ano.
-Esta aplicação gera um relatório com dados de cada pessoa, organizado em:
-* Total de horas trabalhadas
-* Quantidade de horas trabalhadas em cada mês
-* Quantidade de horas trabalhadas em cada ano
+Nesse desafio, você deverá gerar o mesmo relatório com os mesmos dados do desafio anterior mas dessa vez os dados estão fracionados em três arquivos com 10 mil linhas cada e o relatório deve ser gerado usando esses três arquivos em paralelo.
 
 ## Installation
 
