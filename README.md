@@ -2,6 +2,8 @@
 
 Nesse desafio, você deverá gerar o mesmo relatório com os mesmos dados do desafio anterior mas dessa vez os dados estão fracionados em três arquivos com 10 mil linhas cada e o relatório deve ser gerado usando esses três arquivos em paralelo.
 
+
+
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
